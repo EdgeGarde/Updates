@@ -1,4 +1,0 @@
-
-<Version: 1.02.01>
-/data/Quests.json http://lead-magician.com/Quests.json
-<End of Version>
